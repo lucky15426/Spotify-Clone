@@ -1,3 +1,3 @@
 # Spotify-Clone
 
-Have made Spotify-Clone using HTML & CSS :)
+This is a Spotify-Clone using HTML & CSS :)
